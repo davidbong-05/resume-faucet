@@ -1,16 +1,12 @@
 # resume-faucet
 
-This template should help get you started developing with Vue 3 in Vite.
+## About
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This is a simple resume distribution website that I made for myself. It is built with Vue.js, Tailwind CSS and emailjs. The style is inspired by the ethereum faucets.
 
 ## Project Setup
+
+Rename the `.env.example` file to `.env` and fill in the required information.
 
 ```sh
 npm install
